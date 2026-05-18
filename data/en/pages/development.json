@@ -88,10 +88,58 @@
   ],
   "cases": [
     {
+      "tag": "Website",
+      "image": "",
+      "title": "Multi-page website",
+      "description": "Structure, responsive layout and service pages.",
+      "button": "View",
+      "url": "#"
+    },
+    {
       "tag": "Calculator",
       "image": "",
-      "title": "Service cost calculator",
-      "description": "We developed an interactive estimate tool with request submission.",
+      "title": "Cost calculator",
+      "description": "Cost calculation with request submission.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Quiz",
+      "image": "",
+      "title": "Segmentation quiz",
+      "description": "Question logic, answers and lead submission.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Dashboard",
+      "image": "",
+      "title": "Internal dashboard",
+      "description": "Interface for cards, filters and data.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "CRM",
+      "image": "",
+      "title": "CRM request logic",
+      "description": "Stages, statuses and data transfer for managers.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "API",
+      "image": "",
+      "title": "Service integration",
+      "description": "Connected forms, tables and notifications.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Parser",
+      "image": "",
+      "title": "Data collection system",
+      "description": "Logic for collecting and structuring information.",
       "button": "View",
       "url": "#"
     }

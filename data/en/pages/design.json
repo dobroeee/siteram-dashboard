@@ -78,10 +78,58 @@
   ],
   "cases": [
     {
+      "tag": "Website",
+      "image": "",
+      "title": "Agency website design",
+      "description": "Structure, visual system and screens for service presentation.",
+      "button": "View",
+      "url": "#"
+    },
+    {
       "tag": "Brandbook",
       "image": "",
-      "title": "Brandbook and website for a digital project",
-      "description": "We built a visual system, page structure and clear service presentation.",
+      "title": "Brandbook for a digital project",
+      "description": "Identity rules, colors, typography and media.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Dashboard",
+      "image": "",
+      "title": "Dashboard interface",
+      "description": "Visual system for data, filters and reports.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Presentation",
+      "image": "",
+      "title": "Commercial presentation",
+      "description": "Offer structure and visual presentation.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Marketplace",
+      "image": "",
+      "title": "Product cards",
+      "description": "Product cards with clear benefit presentation.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Social",
+      "image": "",
+      "title": "Social media templates",
+      "description": "Visual grid and publication templates.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "UX/UI",
+      "image": "",
+      "title": "Service prototype",
+      "description": "User flow, screen structure and key scenarios.",
       "button": "View",
       "url": "#"
     }

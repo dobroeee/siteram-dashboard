@@ -33,11 +33,6 @@
           "description": "Search and ad network for leads."
         },
         {
-          "id": "ppc-marketing",
-          "title": "PPC marketing",
-          "description": "Channels, goals, funnels and control."
-        },
-        {
           "id": "ad-optimization",
           "title": "Ad optimization",
           "description": "Strengthening working combinations."
@@ -78,10 +73,58 @@
   ],
   "cases": [
     {
-      "tag": "VK Ads",
+      "tag": "VK",
       "image": "",
-      "title": "VK promotion launch",
-      "description": "We prepared audiences, creatives and ad combinations for leads.",
+      "title": "VK promotion",
+      "description": "Audiences, creatives and ad combinations prepared.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Telegram",
+      "image": "",
+      "title": "Telegram promotion",
+      "description": "Combinations for channels, placements and Telegram Ads.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Yandex",
+      "image": "",
+      "title": "Yandex Direct launch",
+      "description": "Campaigns set up for requests and traffic.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Funnel",
+      "image": "",
+      "title": "Marketing funnel",
+      "description": "Offer, landing page, quiz and request connected.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Creatives",
+      "image": "",
+      "title": "Ad creatives",
+      "description": "Visual hypotheses and copy prepared for tests.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Offer",
+      "image": "",
+      "title": "Offer packaging",
+      "description": "Clear value and communication structure formulated.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Landing",
+      "image": "",
+      "title": "Landing page",
+      "description": "Page built for a specific segment and traffic source.",
       "button": "View",
       "url": "#"
     }

@@ -83,10 +83,58 @@
   ],
   "cases": [
     {
-      "tag": "Analytics",
+      "tag": "Ads",
       "image": "",
-      "title": "Ad performance dashboard",
-      "description": "We built a report on campaigns, leads, costs and performance.",
+      "title": "Ad campaign analytics",
+      "description": "Costs, requests, creatives and audiences checked.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Team",
+      "image": "",
+      "title": "Marketing team audit",
+      "description": "Processes, reporting and growth points reviewed.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Research",
+      "image": "",
+      "title": "Market research",
+      "description": "Competitors, audience, demand and offers analyzed.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Social",
+      "image": "",
+      "title": "Social media parsing",
+      "description": "Open data on placements and audiences collected.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Direct",
+      "image": "",
+      "title": "Yandex Direct audit",
+      "description": "Campaigns, keywords and lead costs checked.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "VK Ads",
+      "image": "",
+      "title": "VK Ads audit",
+      "description": "Audiences, ads and campaign efficiency reviewed.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Dashboard",
+      "image": "",
+      "title": "Reporting dashboard",
+      "description": "Panel with key metrics and filters built.",
       "button": "View",
       "url": "#"
     }

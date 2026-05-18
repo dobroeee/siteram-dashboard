@@ -80,8 +80,56 @@
     {
       "tag": "CRM",
       "image": "",
-      "title": "Website and CRM connection",
-      "description": "We configured request transfer, statuses and manager notifications.",
+      "title": "Lead pipeline",
+      "description": "Processing stages and status control set up.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Forms",
+      "image": "",
+      "title": "Form integration",
+      "description": "Requests sent from website to working system.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Telegram",
+      "image": "",
+      "title": "Lead notifications",
+      "description": "Team notifications configured.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Bot",
+      "image": "",
+      "title": "VK chatbot",
+      "description": "Message scenarios and autofunnel built.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Database",
+      "image": "",
+      "title": "Client database",
+      "description": "Contacts, requests and history structured.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Reports",
+      "image": "",
+      "title": "Lead reports",
+      "description": "Sources, statuses and conversions reported.",
+      "button": "View",
+      "url": "#"
+    },
+    {
+      "tag": "Tables",
+      "image": "",
+      "title": "Spreadsheets and tracking",
+      "description": "Working tables and auto updates configured.",
       "button": "View",
       "url": "#"
     }
