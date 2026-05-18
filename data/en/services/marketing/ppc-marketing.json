@@ -1,25 +1,15 @@
 {
   "title": "PPC marketing",
   "category": "Marketing",
-  "description": "We build paid promotion: channels, goals, funnels, landing pages and performance control.",
+  "description": "Channels, goals, funnels and control.",
   "content": [
     {
       "heading": "What we do",
-      "text": "We build paid promotion: channels, goals, funnels, landing pages and performance control. This page can later be expanded with a specific offer, examples and project details."
+      "text": "Channels, goals, funnels and control."
     },
     {
       "heading": "When it fits",
-      "text": "When you need not just a separate element, but a clear working system for a business, client or internal team task."
-    },
-    {
-      "heading": "What to prepare",
-      "text": "A short task description, links to current materials, examples, limits, deadlines and the desired result. If you do not have this yet, we start with a consultation."
+      "text": "We will clarify the task and suggest the right format."
     }
-  ],
-  "bullets": [
-    "Consultation",
-    "Structure",
-    "Implementation",
-    "Support"
   ]
 }

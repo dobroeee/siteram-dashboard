@@ -1,61 +1,136 @@
 {
   "title": "CRM",
-  "description": "We configure request processing, pipelines, notifications, client databases, chatbots and website workflow integrations.",
-  "items": [
+  "description": "We configure requests, pipelines, notifications, client databases, chatbots and connections.",
+  "groups": [
     {
-      "id": "chatbots-autofunnels",
-      "title": "Chatbots and autofunnels",
-      "description": "We build chatbots for VK, Telegram and other platforms: scenarios, requests, broadcasts and automated chains."
+      "title": "Requests and pipelines",
+      "description": "A system for processing requests and deals.",
+      "items": [
+        {
+          "id": "lead-pipelines",
+          "title": "Lead pipelines",
+          "description": "Statuses, responsible managers and stages."
+        },
+        {
+          "id": "business-crm",
+          "title": "CRM for business",
+          "description": "Setup around company processes."
+        },
+        {
+          "id": "deal-stages",
+          "title": "Deal stages and statuses",
+          "description": "Path from first contact to result."
+        }
+      ]
     },
     {
-      "id": "lead-pipelines",
-      "title": "Lead pipelines",
-      "description": "Lead processing stages, statuses, responsible managers and request progress control."
+      "title": "Integrations and automation",
+      "description": "Connecting website, ads and managers.",
+      "items": [
+        {
+          "id": "form-crm-integration",
+          "title": "Form and CRM integration",
+          "description": "Sending requests into one system."
+        },
+        {
+          "id": "lead-notifications",
+          "title": "Lead notifications",
+          "description": "Email, Telegram, spreadsheets or CRM."
+        },
+        {
+          "id": "lead-automation",
+          "title": "Lead automation",
+          "description": "Removing manual data transfer."
+        },
+        {
+          "id": "ads-site-crm",
+          "title": "Ads, website and CRM connection",
+          "description": "Unified lead processing."
+        }
+      ]
     },
     {
-      "id": "business-crm",
-      "title": "CRM for business",
-      "description": "We select and configure a system for real company processes and work scenarios."
-    },
-    {
-      "id": "form-crm-integration",
-      "title": "Form and CRM integration",
-      "description": "We send requests from websites, quizzes, ads and messengers into one system."
-    },
-    {
-      "id": "lead-notifications",
-      "title": "Lead notifications",
-      "description": "We configure notifications to email, Telegram, spreadsheets or CRM."
-    },
-    {
-      "id": "lead-automation",
-      "title": "Lead automation",
-      "description": "We remove manual data transfer and repeated manager actions."
-    },
-    {
-      "id": "client-database",
-      "title": "Client database",
-      "description": "We structure client data, requests, contacts and interaction history."
-    },
-    {
-      "id": "deal-stages",
-      "title": "Deal stages and statuses",
-      "description": "We design a clear processing pipeline from first contact to result."
-    },
-    {
-      "id": "lead-reports",
-      "title": "Lead reports",
-      "description": "We show sources, request volume, statuses, conversions and processing efficiency."
-    },
-    {
-      "id": "tables-accounting",
-      "title": "Spreadsheets and tracking",
-      "description": "We configure working tables, connections, statuses and automatic updates."
-    },
-    {
-      "id": "ads-site-crm",
-      "title": "Ads, website and CRM connection",
-      "description": "We combine ad channels, forms, website and CRM into one lead-processing system."
+      "title": "Bots, database and reports",
+      "description": "Communication, data and result control.",
+      "items": [
+        {
+          "id": "chatbots-autofunnels",
+          "title": "Chatbots and autofunnels",
+          "description": "VK, Telegram, SaleBot and scenarios."
+        },
+        {
+          "id": "client-database",
+          "title": "Client database",
+          "description": "Contacts, requests and history."
+        },
+        {
+          "id": "lead-reports",
+          "title": "Lead reports",
+          "description": "Sources, statuses and conversions."
+        },
+        {
+          "id": "tables-accounting",
+          "title": "Spreadsheets and tracking",
+          "description": "Working tables and updates."
+        }
+      ]
     }
-  ]
+  ],
+  "cases": [
+    {
+      "tag": "CRM",
+      "image": "",
+      "title": "Website and CRM connection",
+      "description": "We configured request transfer, statuses and manager notifications.",
+      "button": "View",
+      "url": "#"
+    }
+  ],
+  "packages": [
+    {
+      "tag": "Start",
+      "title": "Quick start",
+      "price": "from $500",
+      "description": "For small tasks, hypothesis testing or the first launch.",
+      "features": [
+        "Consultation",
+        "Basic structure",
+        "Key materials",
+        "Launch recommendations"
+      ],
+      "button": "Choose package"
+    },
+    {
+      "tag": "Optimal",
+      "title": "Launch system",
+      "price": "from $2,000",
+      "description": "A popular option for projects that need design, logic and request processing.",
+      "features": [
+        "Project structure",
+        "Design or setup",
+        "Integrations",
+        "Launch preparation"
+      ],
+      "button": "Choose package",
+      "popular": true
+    },
+    {
+      "tag": "Complex",
+      "title": "Full cycle",
+      "price": "from $5,000",
+      "description": "For tasks where product, analytics, ads and lead processing should work together.",
+      "features": [
+        "Strategy",
+        "Design and implementation",
+        "CRM/analytics",
+        "Launch support"
+      ],
+      "button": "Choose package"
+    }
+  ],
+  "feedback": {
+    "title": "Still have questions?",
+    "text": "Describe your task — we will suggest where to start and what format fits best.",
+    "button": "Ask a question"
+  }
 }

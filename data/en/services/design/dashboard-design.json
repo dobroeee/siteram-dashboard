@@ -1,25 +1,15 @@
 {
   "title": "Dashboard design",
   "category": "Design",
-  "description": "We create interfaces for reports, data, filters and internal systems.",
+  "description": "Interfaces for reports, data, filters and internal systems.",
   "content": [
     {
       "heading": "What we do",
-      "text": "We create interfaces for reports, data, filters and internal systems. This page can later be expanded with a specific offer, examples and project details."
+      "text": "Interfaces for reports, data, filters and internal systems."
     },
     {
       "heading": "When it fits",
-      "text": "When you need not just a separate element, but a clear working system for a business, client or internal team task."
-    },
-    {
-      "heading": "What to prepare",
-      "text": "A short task description, links to current materials, examples, limits, deadlines and the desired result. If you do not have this yet, we start with a consultation."
+      "text": "We will clarify the task and suggest the right format."
     }
-  ],
-  "bullets": [
-    "Consultation",
-    "Structure",
-    "Implementation",
-    "Support"
   ]
 }

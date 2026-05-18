@@ -1,25 +1,15 @@
 {
   "title": "Reports and dashboards",
   "category": "Analytics",
-  "description": "We prepare clear reports and visual panels for regular control.",
+  "description": "Clear control panels.",
   "content": [
     {
       "heading": "What we do",
-      "text": "We prepare clear reports and visual panels for regular control. This page can later be expanded with a specific offer, examples and project details."
+      "text": "Clear control panels."
     },
     {
       "heading": "When it fits",
-      "text": "When you need not just a separate element, but a clear working system for a business, client or internal team task."
-    },
-    {
-      "heading": "What to prepare",
-      "text": "A short task description, links to current materials, examples, limits, deadlines and the desired result. If you do not have this yet, we start with a consultation."
+      "text": "We will clarify the task and suggest the right format."
     }
-  ],
-  "bullets": [
-    "Consultation",
-    "Structure",
-    "Implementation",
-    "Support"
   ]
 }

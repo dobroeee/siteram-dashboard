@@ -1,76 +1,146 @@
 {
   "title": "Development",
-  "description": "We build websites, web services, calculators, CRM systems, dashboards and custom tools for specific tasks.",
-  "items": [
+  "description": "Websites, web services, calculators, CRM, dashboards and custom tools.",
+  "groups": [
     {
-      "id": "websites",
-      "title": "Websites",
-      "description": "Landing pages and multi-page websites with responsive layout and clear structure."
+      "title": "Websites and interfaces",
+      "description": "Public and internal digital products.",
+      "items": [
+        {
+          "id": "websites",
+          "title": "Websites",
+          "description": "Landing pages and multi-page websites."
+        },
+        {
+          "id": "web-apps",
+          "title": "Web applications",
+          "description": "Interactive interfaces and personal accounts."
+        },
+        {
+          "id": "mobile-apps",
+          "title": "Mobile applications",
+          "description": "Mobile solutions for user scenarios."
+        },
+        {
+          "id": "ecommerce",
+          "title": "Online stores",
+          "description": "Catalogs, carts and forms."
+        }
+      ]
     },
     {
-      "id": "web-apps",
-      "title": "Web applications",
-      "description": "Interactive interfaces, personal accounts, internal services and product pages."
+      "title": "Interactive tools and leads",
+      "description": "Tools for requests, calculations and segmentation.",
+      "items": [
+        {
+          "id": "calculators",
+          "title": "Calculators",
+          "description": "Cost, income or parameter calculations."
+        },
+        {
+          "id": "quizzes-forms",
+          "title": "Quizzes and forms",
+          "description": "Interactive forms for requests."
+        },
+        {
+          "id": "admin-panels",
+          "title": "Admin panels",
+          "description": "Managing content, requests and data."
+        }
+      ]
     },
     {
-      "id": "mobile-apps",
-      "title": "Mobile applications",
-      "description": "Development and prototyping of mobile solutions around user scenarios."
-    },
-    {
-      "id": "ecommerce",
-      "title": "Online stores",
-      "description": "Catalogs, product cards, carts, forms, integrations and purchase logic."
-    },
-    {
-      "id": "calculators",
-      "title": "Calculators",
-      "description": "Cost, income, service or parameter calculations with request submission."
-    },
-    {
-      "id": "quizzes-forms",
-      "title": "Quizzes and forms",
-      "description": "Interactive forms for requests, client segmentation and cost estimation."
-    },
-    {
-      "id": "crm-systems",
-      "title": "CRM systems",
-      "description": "Tools for processing requests, clients, statuses and internal workflows."
-    },
-    {
-      "id": "dashboards",
-      "title": "Dashboards",
-      "description": "Data visualization, filters, tables, charts and work panels."
-    },
-    {
-      "id": "parsers",
-      "title": "Parsing systems",
-      "description": "Collecting and structuring data from open sources and services."
-    },
-    {
-      "id": "api-integrations",
-      "title": "API integrations",
-      "description": "We connect websites, CRM, forms, ad accounts, spreadsheets and external services."
-    },
-    {
-      "id": "automation",
-      "title": "Process automation",
-      "description": "We remove manual work: requests, notifications, spreadsheets, statuses and reports."
-    },
-    {
-      "id": "admin-panels",
-      "title": "Admin panels",
-      "description": "Interfaces for managing content, requests, data and users."
-    },
-    {
-      "id": "data-storage",
-      "title": "Data storage",
-      "description": "We configure data storage, structure, relations and information workflows."
-    },
-    {
-      "id": "support",
-      "title": "Maintenance and support",
-      "description": "Fixes, development of existing projects and technical support."
+      "title": "Systems and integrations",
+      "description": "Logic, data and automation.",
+      "items": [
+        {
+          "id": "crm-systems",
+          "title": "CRM systems",
+          "description": "Processing requests and clients."
+        },
+        {
+          "id": "dashboards",
+          "title": "Dashboards",
+          "description": "Data, tables, charts and filters."
+        },
+        {
+          "id": "parsers",
+          "title": "Parsing systems",
+          "description": "Collecting and structuring data."
+        },
+        {
+          "id": "api-integrations",
+          "title": "API integrations",
+          "description": "Connecting services and systems."
+        },
+        {
+          "id": "automation",
+          "title": "Process automation",
+          "description": "Removing manual actions."
+        },
+        {
+          "id": "data-storage",
+          "title": "Data storage",
+          "description": "Data structure and workflows."
+        }
+      ]
     }
-  ]
+  ],
+  "cases": [
+    {
+      "tag": "Calculator",
+      "image": "",
+      "title": "Service cost calculator",
+      "description": "We developed an interactive estimate tool with request submission.",
+      "button": "View",
+      "url": "#"
+    }
+  ],
+  "packages": [
+    {
+      "tag": "Start",
+      "title": "Quick start",
+      "price": "from $500",
+      "description": "For small tasks, hypothesis testing or the first launch.",
+      "features": [
+        "Consultation",
+        "Basic structure",
+        "Key materials",
+        "Launch recommendations"
+      ],
+      "button": "Choose package"
+    },
+    {
+      "tag": "Optimal",
+      "title": "Launch system",
+      "price": "from $2,000",
+      "description": "A popular option for projects that need design, logic and request processing.",
+      "features": [
+        "Project structure",
+        "Design or setup",
+        "Integrations",
+        "Launch preparation"
+      ],
+      "button": "Choose package",
+      "popular": true
+    },
+    {
+      "tag": "Complex",
+      "title": "Full cycle",
+      "price": "from $5,000",
+      "description": "For tasks where product, analytics, ads and lead processing should work together.",
+      "features": [
+        "Strategy",
+        "Design and implementation",
+        "CRM/analytics",
+        "Launch support"
+      ],
+      "button": "Choose package"
+    }
+  ],
+  "feedback": {
+    "title": "Still have questions?",
+    "text": "Describe your task — we will suggest where to start and what format fits best.",
+    "button": "Ask a question"
+  }
 }
