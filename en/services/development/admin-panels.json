@@ -1,0 +1,15 @@
+{
+  "title": "Admin panels",
+  "category": "Development",
+  "description": "Managing content, requests and data.",
+  "content": [
+    {
+      "heading": "What we do",
+      "text": "Managing content, requests and data."
+    },
+    {
+      "heading": "When it fits",
+      "text": "We will clarify the task and suggest the right format."
+    }
+  ]
+}

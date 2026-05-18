@@ -1,0 +1,136 @@
+{
+  "title": "Marketing",
+  "description": "We package the offer, launch promotion and lead users to a request.",
+  "groups": [
+    {
+      "title": "Social media promotion",
+      "description": "VK, Telegram, MAX and mass social channels.",
+      "items": [
+        {
+          "id": "social-mass-promotion",
+          "title": "Mass promotion in social media",
+          "description": "Broad reach through social channels."
+        },
+        {
+          "id": "vk-target",
+          "title": "VK targeted advertising",
+          "description": "Audiences, creatives and requests."
+        },
+        {
+          "id": "telegram-ads",
+          "title": "Telegram advertising",
+          "description": "Placements, Telegram Ads and combinations."
+        }
+      ]
+    },
+    {
+      "title": "Context and PPC",
+      "description": "Paid traffic, goals and optimization.",
+      "items": [
+        {
+          "id": "yandex-direct",
+          "title": "Yandex Direct",
+          "description": "Search and ad network for leads."
+        },
+        {
+          "id": "ppc-marketing",
+          "title": "PPC marketing",
+          "description": "Channels, goals, funnels and control."
+        },
+        {
+          "id": "ad-optimization",
+          "title": "Ad optimization",
+          "description": "Strengthening working combinations."
+        }
+      ]
+    },
+    {
+      "title": "Packaging and funnels",
+      "description": "User path from offer to request.",
+      "items": [
+        {
+          "id": "audience-segmentation",
+          "title": "Audience segmentation",
+          "description": "Pains, intent and readiness to submit."
+        },
+        {
+          "id": "offers-packaging",
+          "title": "Offers and packaging",
+          "description": "Clear offer and value."
+        },
+        {
+          "id": "marketing-funnels",
+          "title": "Marketing funnels",
+          "description": "Ads, landing page, quiz and form."
+        },
+        {
+          "id": "ad-creatives",
+          "title": "Ad creatives",
+          "description": "Images, copy and hypotheses."
+        },
+        {
+          "id": "landing-pages",
+          "title": "Landing pages",
+          "description": "Pages for traffic and offer."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "tag": "VK Ads",
+      "image": "",
+      "title": "VK promotion launch",
+      "description": "We prepared audiences, creatives and ad combinations for leads.",
+      "button": "View",
+      "url": "#"
+    }
+  ],
+  "packages": [
+    {
+      "tag": "Start",
+      "title": "Quick start",
+      "price": "from $500",
+      "description": "For small tasks, hypothesis testing or the first launch.",
+      "features": [
+        "Consultation",
+        "Basic structure",
+        "Key materials",
+        "Launch recommendations"
+      ],
+      "button": "Choose package"
+    },
+    {
+      "tag": "Optimal",
+      "title": "Launch system",
+      "price": "from $2,000",
+      "description": "A popular option for projects that need design, logic and request processing.",
+      "features": [
+        "Project structure",
+        "Design or setup",
+        "Integrations",
+        "Launch preparation"
+      ],
+      "button": "Choose package",
+      "popular": true
+    },
+    {
+      "tag": "Complex",
+      "title": "Full cycle",
+      "price": "from $5,000",
+      "description": "For tasks where product, analytics, ads and lead processing should work together.",
+      "features": [
+        "Strategy",
+        "Design and implementation",
+        "CRM/analytics",
+        "Launch support"
+      ],
+      "button": "Choose package"
+    }
+  ],
+  "feedback": {
+    "title": "Still have questions?",
+    "text": "Describe your task — we will suggest where to start and what format fits best.",
+    "button": "Ask a question"
+  }
+}

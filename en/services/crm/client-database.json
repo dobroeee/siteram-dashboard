@@ -1,0 +1,15 @@
+{
+  "title": "Client database",
+  "category": "CRM",
+  "description": "Contacts, requests and history.",
+  "content": [
+    {
+      "heading": "What we do",
+      "text": "Contacts, requests and history."
+    },
+    {
+      "heading": "When it fits",
+      "text": "We will clarify the task and suggest the right format."
+    }
+  ]
+}

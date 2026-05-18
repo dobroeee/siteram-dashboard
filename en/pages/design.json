@@ -1,0 +1,136 @@
+{
+  "title": "Design",
+  "description": "We design visual systems, interfaces and materials that make a product clear and convincing.",
+  "groups": [
+    {
+      "title": "Interfaces and digital products",
+      "description": "Screens, websites, apps and working panels.",
+      "items": [
+        {
+          "id": "site-design",
+          "title": "Website design",
+          "description": "Structure, visual system and interface for a business task."
+        },
+        {
+          "id": "app-design",
+          "title": "App design",
+          "description": "Mobile and web interfaces with clear scenarios."
+        },
+        {
+          "id": "dashboard-design",
+          "title": "Dashboard design",
+          "description": "Interfaces for reports, data, filters and internal systems."
+        },
+        {
+          "id": "ux-audit",
+          "title": "UX audit",
+          "description": "Checking structure, scenarios and interface weak points."
+        }
+      ]
+    },
+    {
+      "title": "Systems and identity",
+      "description": "Visual rules, components and brand materials.",
+      "items": [
+        {
+          "id": "design-systems",
+          "title": "Design systems",
+          "description": "Components, rules and structure for scalable interfaces."
+        },
+        {
+          "id": "brandbook-design",
+          "title": "Brandbook design",
+          "description": "Identity rules, colors, typography and visual principles."
+        },
+        {
+          "id": "graphic-design",
+          "title": "Graphic design",
+          "description": "Visual materials for digital, ads and communication."
+        }
+      ]
+    },
+    {
+      "title": "Commercial materials",
+      "description": "Layouts, cards, presentations and product packaging.",
+      "items": [
+        {
+          "id": "print-design",
+          "title": "Print design",
+          "description": "Flyers, catalogs, posters, banners and POS materials."
+        },
+        {
+          "id": "marketplace-cards",
+          "title": "Marketplace cards",
+          "description": "Product visual packaging for marketplaces."
+        },
+        {
+          "id": "presentation-design",
+          "title": "Presentation design",
+          "description": "Commercial, investment and product presentations."
+        },
+        {
+          "id": "social-design",
+          "title": "Social media design",
+          "description": "Templates, covers, posts and social visual style."
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "tag": "Brandbook",
+      "image": "",
+      "title": "Brandbook and website for a digital project",
+      "description": "We built a visual system, page structure and clear service presentation.",
+      "button": "View",
+      "url": "#"
+    }
+  ],
+  "packages": [
+    {
+      "tag": "Start",
+      "title": "Quick start",
+      "price": "from $500",
+      "description": "For small tasks, hypothesis testing or the first launch.",
+      "features": [
+        "Consultation",
+        "Basic structure",
+        "Key materials",
+        "Launch recommendations"
+      ],
+      "button": "Choose package"
+    },
+    {
+      "tag": "Optimal",
+      "title": "Launch system",
+      "price": "from $2,000",
+      "description": "A popular option for projects that need design, logic and request processing.",
+      "features": [
+        "Project structure",
+        "Design or setup",
+        "Integrations",
+        "Launch preparation"
+      ],
+      "button": "Choose package",
+      "popular": true
+    },
+    {
+      "tag": "Complex",
+      "title": "Full cycle",
+      "price": "from $5,000",
+      "description": "For tasks where product, analytics, ads and lead processing should work together.",
+      "features": [
+        "Strategy",
+        "Design and implementation",
+        "CRM/analytics",
+        "Launch support"
+      ],
+      "button": "Choose package"
+    }
+  ],
+  "feedback": {
+    "title": "Still have questions?",
+    "text": "Describe your task — we will suggest where to start and what format fits best.",
+    "button": "Ask a question"
+  }
+}
