@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "site-brief",
+      "tag": "Design",
+      "date": "18.05.2026",
+      "title": "How to prepare for website development",
+      "description": "What to gather before the start to get structure, design and an estimate faster."
+    },
+    {
+      "id": "crm-leads",
+      "tag": "CRM",
+      "date": "18.05.2026",
+      "title": "Why leads get lost without CRM",
+      "description": "Why a business needs a pipeline, statuses, notifications and one client database."
+    },
+    {
+      "id": "vk-audiences",
+      "tag": "Marketing",
+      "date": "18.05.2026",
+      "title": "How to evaluate VK audiences before launch",
+      "description": "What signals help separate a live audience from a weak promotion placement."
+    },
+    {
+      "id": "analytics-dashboard",
+      "tag": "Analytics",
+      "date": "18.05.2026",
+      "title": "What a good dashboard should include",
+      "description": "What data, filters and metrics help make decisions faster."
+    }
+  ]
+}

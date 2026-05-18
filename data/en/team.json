@@ -1,0 +1,38 @@
+[
+  {
+    "tag": "Design",
+    "name": "Ramila Akhmerova",
+    "role": "UX/UI Designer",
+    "photo": ""
+  },
+  {
+    "tag": "Marketing",
+    "name": "Ilfat Khuzhakhmetov",
+    "role": "Marketer",
+    "photo": ""
+  },
+  {
+    "tag": "CRM",
+    "name": "Eldar Akhmetyanov",
+    "role": "CRM Specialist",
+    "photo": ""
+  },
+  {
+    "tag": "Analytics",
+    "name": "Maria Olegovna",
+    "role": "Analyst",
+    "photo": ""
+  },
+  {
+    "tag": "Design",
+    "name": "Veronika Kirikova",
+    "role": "Graphic Designer",
+    "photo": ""
+  },
+  {
+    "tag": "SMM",
+    "name": "Evgenia Zarostova",
+    "role": "SMM Specialist",
+    "photo": ""
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "title": "CRM",
+  "description": "We configure request processing, pipelines, notifications, client databases, chatbots and website workflow integrations.",
+  "items": [
+    {
+      "id": "chatbots-autofunnels",
+      "title": "Chatbots and autofunnels",
+      "description": "We build chatbots for VK, Telegram and other platforms: scenarios, requests, broadcasts and automated chains."
+    },
+    {
+      "id": "lead-pipelines",
+      "title": "Lead pipelines",
+      "description": "Lead processing stages, statuses, responsible managers and request progress control."
+    },
+    {
+      "id": "business-crm",
+      "title": "CRM for business",
+      "description": "We select and configure a system for real company processes and work scenarios."
+    },
+    {
+      "id": "form-crm-integration",
+      "title": "Form and CRM integration",
+      "description": "We send requests from websites, quizzes, ads and messengers into one system."
+    },
+    {
+      "id": "lead-notifications",
+      "title": "Lead notifications",
+      "description": "We configure notifications to email, Telegram, spreadsheets or CRM."
+    },
+    {
+      "id": "lead-automation",
+      "title": "Lead automation",
+      "description": "We remove manual data transfer and repeated manager actions."
+    },
+    {
+      "id": "client-database",
+      "title": "Client database",
+      "description": "We structure client data, requests, contacts and interaction history."
+    },
+    {
+      "id": "deal-stages",
+      "title": "Deal stages and statuses",
+      "description": "We design a clear processing pipeline from first contact to result."
+    },
+    {
+      "id": "lead-reports",
+      "title": "Lead reports",
+      "description": "We show sources, request volume, statuses, conversions and processing efficiency."
+    },
+    {
+      "id": "tables-accounting",
+      "title": "Spreadsheets and tracking",
+      "description": "We configure working tables, connections, statuses and automatic updates."
+    },
+    {
+      "id": "ads-site-crm",
+      "title": "Ads, website and CRM connection",
+      "description": "We combine ad channels, forms, website and CRM into one lead-processing system."
+    }
+  ]
+}

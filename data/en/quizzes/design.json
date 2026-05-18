@@ -1,0 +1,73 @@
+{
+  "id": "design",
+  "title": "Design quiz",
+  "startText": "We will clarify the type of design, materials, timeline and budget.",
+  "steps": [
+    {
+      "id": "design_type",
+      "title": "What type of design do you need?",
+      "type": "single",
+      "options": [
+        "Website design",
+        "App design",
+        "Dashboard design",
+        "Design system",
+        "Brandbook",
+        {
+          "label": "Other",
+          "value": "Other",
+          "custom": true,
+          "placeholder": "Write your option"
+        }
+      ]
+    },
+    {
+      "id": "stage",
+      "title": "What stage is the project at?",
+      "type": "single",
+      "options": [
+        "There is an idea",
+        "There is a structure",
+        "There is a prototype",
+        "Need to update an existing design",
+        "Need a consultation"
+      ]
+    },
+    {
+      "id": "tz",
+      "title": "Do you have a technical brief?",
+      "type": "single",
+      "options": [
+        "Yes, there is a brief",
+        "No, I need a consultation"
+      ]
+    },
+    {
+      "id": "deadline",
+      "title": "What is the timeline?",
+      "type": "single",
+      "options": [
+        "Urgent",
+        "Up to 2 weeks",
+        "Up to a month",
+        "Timeline is flexible"
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "What is the budget?",
+      "type": "single",
+      "options": [
+        "Up to $500",
+        "$500–$5,000",
+        "$5,000–$20,000",
+        "$20,000 and more"
+      ]
+    },
+    {
+      "id": "contacts",
+      "title": "Where should we send the estimate?",
+      "type": "contacts"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "other",
+  "title": "Task quiz",
+  "startText": "Describe the area and we will suggest the best approach.",
+  "steps": [
+    {
+      "id": "task",
+      "title": "What are you interested in?",
+      "type": "single",
+      "options": [
+        "Design",
+        "Development",
+        "Analytics",
+        "Marketing",
+        "CRM",
+        {
+          "label": "Other",
+          "value": "Other",
+          "custom": true,
+          "placeholder": "Describe the task"
+        }
+      ]
+    },
+    {
+      "id": "description",
+      "title": "Briefly describe the task",
+      "type": "textarea",
+      "placeholder": "For example: website, quiz, ad funnel or request automation"
+    },
+    {
+      "id": "deadline",
+      "title": "What is the timeline?",
+      "type": "single",
+      "options": [
+        "Urgent",
+        "Up to 2 weeks",
+        "Up to a month",
+        "Timeline is flexible"
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "What is the budget?",
+      "type": "single",
+      "options": [
+        "Up to $500",
+        "$500–$5,000",
+        "$5,000–$20,000",
+        "$20,000 and more"
+      ]
+    },
+    {
+      "id": "contacts",
+      "title": "Where should we send the estimate?",
+      "type": "contacts"
+    }
+  ]
+}

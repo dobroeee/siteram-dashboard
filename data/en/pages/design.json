@@ -1,0 +1,76 @@
+{
+  "title": "Design",
+  "description": "We design visual systems, interfaces and materials that make a product clear, consistent and convincing.",
+  "items": [
+    {
+      "id": "site-design",
+      "title": "Website design",
+      "description": "Structure, visual system and website interface for a specific business task."
+    },
+    {
+      "id": "ux-audit",
+      "title": "UX audit",
+      "description": "We check structure, scenarios and weak points before redesigning the interface."
+    },
+    {
+      "id": "prototyping",
+      "title": "Prototyping",
+      "description": "We build screen logic, user flow and the structure of the future product."
+    },
+    {
+      "id": "app-design",
+      "title": "App design",
+      "description": "We design mobile and web interfaces with clear user scenarios."
+    },
+    {
+      "id": "dashboard-design",
+      "title": "Dashboard design",
+      "description": "We create interfaces for reports, data, filters and internal systems."
+    },
+    {
+      "id": "design-systems",
+      "title": "Design systems",
+      "description": "We assemble components, rules, styles and structure for scalable interfaces."
+    },
+    {
+      "id": "brandbook-design",
+      "title": "Brandbook design",
+      "description": "We document identity rules, colors, typography, media and visual principles."
+    },
+    {
+      "id": "graphic-design",
+      "title": "Graphic design",
+      "description": "We prepare visuals for digital, ads, presentations and communications."
+    },
+    {
+      "id": "print-design",
+      "title": "Print design",
+      "description": "We design flyers, catalogs, posters, banners and POS materials."
+    },
+    {
+      "id": "marketplace-cards",
+      "title": "Marketplace cards",
+      "description": "We package product visuals for marketplaces and online catalogs."
+    },
+    {
+      "id": "product-design",
+      "title": "Product visual design",
+      "description": "We work on product appearance, packaging and presentation."
+    },
+    {
+      "id": "game-design",
+      "title": "Game design",
+      "description": "We design game interfaces, screens, elements and visual presentation."
+    },
+    {
+      "id": "presentation-design",
+      "title": "Presentation design",
+      "description": "We create commercial, investment and product presentations."
+    },
+    {
+      "id": "social-design",
+      "title": "Social media design",
+      "description": "We develop templates, covers, posts and visual style for social media."
+    }
+  ]
+}

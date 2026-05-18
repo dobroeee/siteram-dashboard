@@ -1,0 +1,77 @@
+{
+  "id": "analytics",
+  "title": "Analytics quiz",
+  "startText": "We will understand what data should be collected, checked or visualized.",
+  "steps": [
+    {
+      "id": "analytics_type",
+      "title": "What analytics do you need?",
+      "type": "single",
+      "options": [
+        "Ad campaign analytics",
+        "Marketing department analytics",
+        "Market research",
+        "Social media parsing",
+        "Yandex API analytics",
+        "Reports and dashboards",
+        {
+          "label": "Other",
+          "value": "Other",
+          "custom": true,
+          "placeholder": "Write your option"
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "title": "Where is the data now?",
+      "type": "single",
+      "options": [
+        "Ad accounts",
+        "Social media",
+        "CRM",
+        "Spreadsheets",
+        "Not sure yet"
+      ]
+    },
+    {
+      "id": "result",
+      "title": "What result do you need?",
+      "type": "single",
+      "options": [
+        "Clear report",
+        "Dashboard",
+        "Audit and recommendations",
+        "Automated data collection",
+        "Need a consultation"
+      ]
+    },
+    {
+      "id": "deadline",
+      "title": "What is the timeline?",
+      "type": "single",
+      "options": [
+        "Urgent",
+        "Up to 2 weeks",
+        "Up to a month",
+        "Timeline is flexible"
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "What is the budget?",
+      "type": "single",
+      "options": [
+        "Up to $500",
+        "$500–$5,000",
+        "$5,000–$20,000",
+        "$20,000 and more"
+      ]
+    },
+    {
+      "id": "contacts",
+      "title": "Where should we send the estimate?",
+      "type": "contacts"
+    }
+  ]
+}

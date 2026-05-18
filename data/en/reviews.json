@@ -1,0 +1,38 @@
+[
+  {
+    "rating": 5,
+    "tag": "Dashboard",
+    "company": "Education project",
+    "text": "We built a convenient dashboard for programs, requests and internal materials. The workflow became clearer for the team..."
+  },
+  {
+    "rating": 5,
+    "tag": "Landing page",
+    "company": "Training center",
+    "text": "We quickly clarified the task, built the structure and prepared a landing page for ad traffic launch..."
+  },
+  {
+    "rating": 4,
+    "tag": "CRM",
+    "company": "Service company",
+    "text": "Requests, statuses and notifications were connected. Managers now control incoming leads more easily..."
+  },
+  {
+    "rating": 5,
+    "tag": "VK promotion",
+    "company": "Local business",
+    "text": "We separated audiences, prepared creatives and launched promotion without unnecessary complexity..."
+  },
+  {
+    "rating": 5,
+    "tag": "Brandbook",
+    "company": "IT project",
+    "text": "The project received a clean visual system, clear rules and materials for future work..."
+  },
+  {
+    "rating": 4,
+    "tag": "Calculator",
+    "company": "Repair services",
+    "text": "The calculator helped explain the price before the request and reduce irrelevant leads..."
+  }
+]

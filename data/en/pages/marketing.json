@@ -1,0 +1,71 @@
+{
+  "title": "Marketing",
+  "description": "We help package the offer, launch promotion and lead users to a request.",
+  "items": [
+    {
+      "id": "social-mass-promotion",
+      "title": "Mass promotion in social media",
+      "description": "Promotion to broad audiences through VK, Telegram, MAX and other social channels."
+    },
+    {
+      "id": "vk-target",
+      "title": "VK targeted advertising",
+      "description": "We set up and manage VK ads: audiences, ads, creatives, tests and lead optimization."
+    },
+    {
+      "id": "telegram-ads",
+      "title": "Telegram advertising",
+      "description": "We set up Telegram promotion: audiences, ad combinations, placements, Telegram Ads and analytics."
+    },
+    {
+      "id": "yandex-direct",
+      "title": "Yandex Direct",
+      "description": "Search and ad network campaigns with control over lead cost and traffic quality."
+    },
+    {
+      "id": "ppc-marketing",
+      "title": "PPC marketing",
+      "description": "We build paid promotion: channels, goals, funnels, landing pages and performance control."
+    },
+    {
+      "id": "audience-segmentation",
+      "title": "Audience segmentation",
+      "description": "We divide audiences by needs, intent, pain points and readiness to submit a request."
+    },
+    {
+      "id": "offers-packaging",
+      "title": "Offers and packaging",
+      "description": "We formulate the offer so users quickly understand the value and next action."
+    },
+    {
+      "id": "marketing-funnels",
+      "title": "Marketing funnels",
+      "description": "We design the path from ad and creative to landing page, quiz, form and request."
+    },
+    {
+      "id": "ad-creatives",
+      "title": "Ad creatives",
+      "description": "We prepare images, copy, hypotheses and visual combinations for ad campaigns."
+    },
+    {
+      "id": "landing-pages",
+      "title": "Landing pages",
+      "description": "We build pages for traffic, segment, offer and a specific conversion task."
+    },
+    {
+      "id": "ad-optimization",
+      "title": "Ad optimization",
+      "description": "We analyze results, turn off weak parts, strengthen working combinations and reduce lead cost."
+    },
+    {
+      "id": "marketing-consulting",
+      "title": "Marketing consulting",
+      "description": "We analyze goals, channels, offers, funnel and growth points."
+    },
+    {
+      "id": "ads-consulting",
+      "title": "Advertising consulting",
+      "description": "We help analyze campaigns, budgets, audiences, creatives and launch efficiency."
+    }
+  ]
+}

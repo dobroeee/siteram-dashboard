@@ -1,0 +1,76 @@
+{
+  "title": "Development",
+  "description": "We build websites, web services, calculators, CRM systems, dashboards and custom tools for specific tasks.",
+  "items": [
+    {
+      "id": "websites",
+      "title": "Websites",
+      "description": "Landing pages and multi-page websites with responsive layout and clear structure."
+    },
+    {
+      "id": "web-apps",
+      "title": "Web applications",
+      "description": "Interactive interfaces, personal accounts, internal services and product pages."
+    },
+    {
+      "id": "mobile-apps",
+      "title": "Mobile applications",
+      "description": "Development and prototyping of mobile solutions around user scenarios."
+    },
+    {
+      "id": "ecommerce",
+      "title": "Online stores",
+      "description": "Catalogs, product cards, carts, forms, integrations and purchase logic."
+    },
+    {
+      "id": "calculators",
+      "title": "Calculators",
+      "description": "Cost, income, service or parameter calculations with request submission."
+    },
+    {
+      "id": "quizzes-forms",
+      "title": "Quizzes and forms",
+      "description": "Interactive forms for requests, client segmentation and cost estimation."
+    },
+    {
+      "id": "crm-systems",
+      "title": "CRM systems",
+      "description": "Tools for processing requests, clients, statuses and internal workflows."
+    },
+    {
+      "id": "dashboards",
+      "title": "Dashboards",
+      "description": "Data visualization, filters, tables, charts and work panels."
+    },
+    {
+      "id": "parsers",
+      "title": "Parsing systems",
+      "description": "Collecting and structuring data from open sources and services."
+    },
+    {
+      "id": "api-integrations",
+      "title": "API integrations",
+      "description": "We connect websites, CRM, forms, ad accounts, spreadsheets and external services."
+    },
+    {
+      "id": "automation",
+      "title": "Process automation",
+      "description": "We remove manual work: requests, notifications, spreadsheets, statuses and reports."
+    },
+    {
+      "id": "admin-panels",
+      "title": "Admin panels",
+      "description": "Interfaces for managing content, requests, data and users."
+    },
+    {
+      "id": "data-storage",
+      "title": "Data storage",
+      "description": "We configure data storage, structure, relations and information workflows."
+    },
+    {
+      "id": "support",
+      "title": "Maintenance and support",
+      "description": "Fixes, development of existing projects and technical support."
+    }
+  ]
+}

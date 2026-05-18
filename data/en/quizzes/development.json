@@ -1,0 +1,74 @@
+{
+  "id": "development",
+  "title": "Development quiz",
+  "startText": "We will clarify the project type, scope and available materials.",
+  "steps": [
+    {
+      "id": "dev_type",
+      "title": "What do you need to develop?",
+      "type": "single",
+      "options": [
+        "Website",
+        "Web application",
+        "Mobile application",
+        "Calculator",
+        "CRM system",
+        "Dashboard",
+        "Parsing system",
+        {
+          "label": "Other",
+          "value": "Other",
+          "custom": true,
+          "placeholder": "Write your option"
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "title": "What is required?",
+      "type": "single",
+      "options": [
+        "Build from scratch",
+        "Improve an existing project",
+        "Integrate with services",
+        "Need a consultation"
+      ]
+    },
+    {
+      "id": "tz",
+      "title": "Do you have a technical brief?",
+      "type": "single",
+      "options": [
+        "Yes, there is a brief",
+        "No, I need a consultation"
+      ]
+    },
+    {
+      "id": "deadline",
+      "title": "What is the timeline?",
+      "type": "single",
+      "options": [
+        "Urgent",
+        "Up to a month",
+        "1–3 months",
+        "Timeline is flexible"
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "What is the budget?",
+      "type": "single",
+      "options": [
+        "Up to $500",
+        "$500–$5,000",
+        "$5,000–$20,000",
+        "$20,000 and more"
+      ]
+    },
+    {
+      "id": "contacts",
+      "title": "Where should we send the estimate?",
+      "type": "contacts"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "What a good dashboard should include",
+  "tag": "Analytics",
+  "date": "18.05.2026",
+  "description": "What data, filters and metrics help make decisions faster.",
+  "content": [
+    {
+      "heading": "What this article is about",
+      "text": "This is temporary text. Later we will add full content, examples, structure and conclusions."
+    },
+    {
+      "heading": "Why it matters",
+      "text": "The article should help the client understand the task, prepare for the project and make a decision faster."
+    },
+    {
+      "heading": "What happens next",
+      "text": "Once the GitHub data is filled in, this page will be pulled into the Tilda dashboard automatically."
+    }
+  ]
+}

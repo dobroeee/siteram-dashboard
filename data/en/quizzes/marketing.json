@@ -1,0 +1,78 @@
+{
+  "id": "marketing",
+  "title": "Marketing quiz",
+  "startText": "We will clarify the channel, audience and campaign goal.",
+  "steps": [
+    {
+      "id": "marketing_type",
+      "title": "What do you need to launch?",
+      "type": "single",
+      "options": [
+        "Mass promotion in social media",
+        "VK targeted ads",
+        "Telegram advertising",
+        "Yandex Direct",
+        "PPC marketing",
+        "Marketing consultation",
+        "Advertising consultation",
+        {
+          "label": "Other",
+          "value": "Other",
+          "custom": true,
+          "placeholder": "Write your option"
+        }
+      ]
+    },
+    {
+      "id": "goal",
+      "title": "What is the goal?",
+      "type": "single",
+      "options": [
+        "Requests",
+        "Sales",
+        "Subscribers",
+        "Reach",
+        "Hypothesis test",
+        "Need a consultation"
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "What do you already have?",
+      "type": "single",
+      "options": [
+        "Website",
+        "Creatives",
+        "Ad account",
+        "Nothing yet, need from scratch"
+      ]
+    },
+    {
+      "id": "deadline",
+      "title": "When should it launch?",
+      "type": "single",
+      "options": [
+        "Urgent",
+        "Within a week",
+        "Within a month",
+        "Timeline is flexible"
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "What is the budget?",
+      "type": "single",
+      "options": [
+        "Up to $500",
+        "$500–$5,000",
+        "$5,000–$20,000",
+        "$20,000 and more"
+      ]
+    },
+    {
+      "id": "contacts",
+      "title": "Where should we send the estimate?",
+      "type": "contacts"
+    }
+  ]
+}

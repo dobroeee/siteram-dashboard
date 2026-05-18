@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "brandTitle": "Siteram.ru",
+    "brandSubtitle": "Full-cycle marketing agency",
+    "links": {
+      "telegram": "#",
+      "max": "#",
+      "vk": "#"
+    }
+  },
+  "home": {
+    "kicker": "",
+    "title": "Business packaging and promotion turnkey",
+    "tags": [],
+    "consultTitle": "",
+    "consultButton": ""
+  },
+  "overview": [
+    {
+      "number": "01",
+      "title": "Design",
+      "description": "UX/UI, websites, apps, dashboards, design systems and visual packaging.",
+      "tab": "design"
+    },
+    {
+      "number": "02",
+      "title": "Development",
+      "description": "Websites, web apps, quizzes, calculators, CRM, dashboards and integrations.",
+      "tab": "development"
+    },
+    {
+      "number": "03",
+      "title": "Analytics",
+      "description": "Parsing, APIs, ad audits, reports and dashboards.",
+      "tab": "analytics"
+    },
+    {
+      "number": "04",
+      "title": "Marketing",
+      "description": "Ads, offers, creatives, landing pages and social media promotion.",
+      "tab": "marketing"
+    },
+    {
+      "number": "05",
+      "title": "CRM",
+      "description": "Requests, pipelines, chatbots, notifications, client databases and automation.",
+      "tab": "crm"
+    },
+    {
+      "number": "06",
+      "title": "Other",
+      "description": "If your task does not fit the list, choose this option and describe it in the quiz.",
+      "tab": "other"
+    }
+  ],
+  "offers": [
+    {
+      "title": "Free initial consultation",
+      "description": "We will review your task, suggest an approach and help you understand where to start.",
+      "button": "Get consultation",
+      "image": ""
+    },
+    {
+      "title": "Express audit of your digital funnel",
+      "description": "We will check your website, ads, request form and user path before the first contact.",
+      "button": "Get audit",
+      "image": ""
+    },
+    {
+      "title": "Quiz for cost estimation",
+      "description": "We will help build a short quiz that segments clients and sends a request to your CRM.",
+      "button": "Activate",
+      "image": ""
+    }
+  ]
+}

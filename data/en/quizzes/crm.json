@@ -1,0 +1,77 @@
+{
+  "id": "crm",
+  "title": "CRM quiz",
+  "startText": "We will clarify how requests arrive and what should be automated.",
+  "steps": [
+    {
+      "id": "crm_type",
+      "title": "What do you need for CRM?",
+      "type": "single",
+      "options": [
+        "Chatbots and autofunnels",
+        "Lead pipelines",
+        "CRM for business",
+        "Form and CRM integration",
+        "Lead notifications",
+        "Client database",
+        "Lead reports",
+        {
+          "label": "Other",
+          "value": "Other",
+          "custom": true,
+          "placeholder": "Write your option"
+        }
+      ]
+    },
+    {
+      "id": "lead_source",
+      "title": "Where do requests come from?",
+      "type": "single",
+      "options": [
+        "Website",
+        "Quiz",
+        "Ads",
+        "Social media",
+        "Multiple sources"
+      ]
+    },
+    {
+      "id": "current_system",
+      "title": "Where do you track requests now?",
+      "type": "single",
+      "options": [
+        "Spreadsheet",
+        "Messengers",
+        "CRM",
+        "Nowhere, need to set up from scratch"
+      ]
+    },
+    {
+      "id": "deadline",
+      "title": "What is the timeline?",
+      "type": "single",
+      "options": [
+        "Urgent",
+        "Up to 2 weeks",
+        "Up to a month",
+        "Timeline is flexible"
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "What is the budget?",
+      "type": "single",
+      "options": [
+        "Up to $500",
+        "$500–$5,000",
+        "$5,000–$20,000",
+        "$20,000 and more"
+      ]
+    },
+    {
+      "id": "contacts",
+      "title": "Where should we send the estimate?",
+      "type": "contacts"
+    }
+  ]
+}
