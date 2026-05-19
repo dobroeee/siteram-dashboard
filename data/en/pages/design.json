@@ -1,184 +1,623 @@
 {
   "title": "Design",
-  "description": "We design visual systems, interfaces and materials that make a product clear and convincing.",
-  "groups": [
+  "description": "We create business visual packaging: from branding and graphics to interfaces, design systems, marketplaces and social media.",
+  "designSections": [
     {
-      "title": "Interfaces and digital products",
-      "description": "Screens, websites, apps and working panels.",
-      "items": [
+      "id": "branding",
+      "title": "Branding",
+      "description": "We create the visual identity foundation: from logo to brand usage rules across digital and offline media.",
+      "tags": [
+        "Logo",
+        "Identity",
+        "Brandbook",
+        "Brand style",
+        "Merch"
+      ],
+      "cases": [
         {
-          "id": "site-design",
-          "title": "Website design",
-          "description": "Structure, visual system and interface for a business task."
+          "id": "branding-case-1",
+          "tag": "Branding",
+          "image": "",
+          "title": "Branding case 1",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "app-design",
-          "title": "App design",
-          "description": "Mobile and web interfaces with clear scenarios."
+          "id": "branding-case-2",
+          "tag": "Branding",
+          "image": "",
+          "title": "Branding case 2",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "dashboard-design",
-          "title": "Dashboard design",
-          "description": "Interfaces for reports, data, filters and internal systems."
+          "id": "branding-case-3",
+          "tag": "Branding",
+          "image": "",
+          "title": "Branding case 3",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "ux-audit",
-          "title": "UX audit",
-          "description": "Checking structure, scenarios and interface weak points."
+          "id": "branding-case-4",
+          "tag": "Branding",
+          "image": "",
+          "title": "Branding case 4",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Systems and identity",
-      "description": "Visual rules, components and brand materials.",
-      "items": [
+      "id": "graphic-design",
+      "title": "Graphic design",
+      "description": "We prepare visual materials for advertising, sales, presentations, print and commercial communication.",
+      "tags": [
+        "Print",
+        "Presentations",
+        "Ad creatives",
+        "Packaging",
+        "Commercial materials"
+      ],
+      "cases": [
         {
-          "id": "design-systems",
-          "title": "Design systems",
-          "description": "Components, rules and structure for scalable interfaces."
+          "id": "graphic-design-case-1",
+          "tag": "Graphics",
+          "image": "",
+          "title": "Graphic design case 1",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "brandbook-design",
-          "title": "Brandbook design",
-          "description": "Identity rules, colors, typography and visual principles."
+          "id": "graphic-design-case-2",
+          "tag": "Graphics",
+          "image": "",
+          "title": "Graphic design case 2",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "graphic-design",
-          "title": "Graphic design",
-          "description": "Visual materials for digital, ads and communication."
+          "id": "graphic-design-case-3",
+          "tag": "Graphics",
+          "image": "",
+          "title": "Graphic design case 3",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "graphic-design-case-4",
+          "tag": "Graphics",
+          "image": "",
+          "title": "Graphic design case 4",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Commercial materials",
-      "description": "Layouts, cards, presentations and product packaging.",
-      "items": [
+      "id": "web-design",
+      "title": "Web design",
+      "description": "We design the look and structure of websites, landing pages, online stores and interactive pages.",
+      "tags": [
+        "Websites",
+        "Landing pages",
+        "Online stores",
+        "Quizzes",
+        "Calculators"
+      ],
+      "cases": [
         {
-          "id": "print-design",
-          "title": "Print design",
-          "description": "Flyers, catalogs, posters, banners and POS materials."
+          "id": "web-design-case-1",
+          "tag": "Web design",
+          "image": "",
+          "title": "Web design case 1",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "marketplace-cards",
-          "title": "Marketplace cards",
-          "description": "Product visual packaging for marketplaces."
+          "id": "web-design-case-2",
+          "tag": "Web design",
+          "image": "",
+          "title": "Web design case 2",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "presentation-design",
-          "title": "Presentation design",
-          "description": "Commercial, investment and product presentations."
+          "id": "web-design-case-3",
+          "tag": "Web design",
+          "image": "",
+          "title": "Web design case 3",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "social-design",
-          "title": "Social media design",
-          "description": "Templates, covers, posts and social visual style."
+          "id": "web-design-case-4",
+          "tag": "Web design",
+          "image": "",
+          "title": "Web design case 4",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         }
       ]
-    }
-  ],
-  "cases": [
-    {
-      "tag": "Website",
-      "image": "",
-      "title": "Agency website design",
-      "description": "Structure, visual system and screens for service presentation.",
-      "button": "View",
-      "url": "#"
     },
     {
-      "tag": "Brandbook",
-      "image": "",
-      "title": "Brandbook for a digital project",
-      "description": "Identity rules, colors, typography and media.",
-      "button": "View",
-      "url": "#"
+      "id": "ux-ui-design",
+      "title": "UX/UI design",
+      "description": "We design user scenarios, interfaces and screens for services, accounts, CRM and dashboards.",
+      "tags": [
+        "Apps",
+        "Services",
+        "Personal accounts",
+        "CRM",
+        "Dashboards"
+      ],
+      "cases": [
+        {
+          "id": "ux-ui-design-case-1",
+          "tag": "UX/UI",
+          "image": "",
+          "title": "UX/UI design case 1",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "ux-ui-design-case-2",
+          "tag": "UX/UI",
+          "image": "",
+          "title": "UX/UI design case 2",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "ux-ui-design-case-3",
+          "tag": "UX/UI",
+          "image": "",
+          "title": "UX/UI design case 3",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "ux-ui-design-case-4",
+          "tag": "UX/UI",
+          "image": "",
+          "title": "UX/UI design case 4",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        }
+      ]
     },
     {
-      "tag": "Dashboard",
-      "image": "",
-      "title": "Dashboard interface",
-      "description": "Visual system for data, filters and reports.",
-      "button": "View",
-      "url": "#"
+      "id": "design-systems",
+      "title": "Design systems",
+      "description": "We build components, UI kits and interface rules so the product can be developed consistently.",
+      "tags": [
+        "UI kit",
+        "Components",
+        "Figma libraries"
+      ],
+      "cases": [
+        {
+          "id": "design-systems-case-1",
+          "tag": "Design system",
+          "image": "",
+          "title": "Design system case 1",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "design-systems-case-2",
+          "tag": "Design system",
+          "image": "",
+          "title": "Design system case 2",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "design-systems-case-3",
+          "tag": "Design system",
+          "image": "",
+          "title": "Design system case 3",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "design-systems-case-4",
+          "tag": "Design system",
+          "image": "",
+          "title": "Design system case 4",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        }
+      ]
     },
     {
-      "tag": "Presentation",
-      "image": "",
-      "title": "Commercial presentation",
-      "description": "Offer structure and visual presentation.",
-      "button": "View",
-      "url": "#"
+      "id": "marketplaces",
+      "title": "Marketplaces",
+      "description": "We package marketplace product cards so they explain benefits faster and build trust.",
+      "tags": [
+        "Product cards",
+        "Infographics",
+        "Rich content"
+      ],
+      "cases": [
+        {
+          "id": "marketplaces-case-1",
+          "tag": "Marketplace",
+          "image": "",
+          "title": "Marketplace case 1",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "marketplaces-case-2",
+          "tag": "Marketplace",
+          "image": "",
+          "title": "Marketplace case 2",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "marketplaces-case-3",
+          "tag": "Marketplace",
+          "image": "",
+          "title": "Marketplace case 3",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "marketplaces-case-4",
+          "tag": "Marketplace",
+          "image": "",
+          "title": "Marketplace case 4",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        }
+      ]
     },
     {
-      "tag": "Marketplace",
-      "image": "",
-      "title": "Product cards",
-      "description": "Product cards with clear benefit presentation.",
-      "button": "View",
-      "url": "#"
-    },
-    {
-      "tag": "Social",
-      "image": "",
-      "title": "Social media templates",
-      "description": "Visual grid and publication templates.",
-      "button": "View",
-      "url": "#"
-    },
-    {
-      "tag": "UX/UI",
-      "image": "",
-      "title": "Service prototype",
-      "description": "User flow, screen structure and key scenarios.",
-      "button": "View",
-      "url": "#"
+      "id": "social-media",
+      "title": "Social media",
+      "description": "We design social media visuals: post templates, covers, banners and visual grids.",
+      "tags": [
+        "VK",
+        "Telegram",
+        "YouTube",
+        "Post templates",
+        "Covers"
+      ],
+      "cases": [
+        {
+          "id": "social-media-case-1",
+          "tag": "Social",
+          "image": "",
+          "title": "Social media case 1",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "social-media-case-2",
+          "tag": "Social",
+          "image": "",
+          "title": "Social media case 2",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "social-media-case-3",
+          "tag": "Social",
+          "image": "",
+          "title": "Social media case 3",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "social-media-case-4",
+          "tag": "Social",
+          "image": "",
+          "title": "Social media case 4",
+          "description": "Temporary case description. Later we will add real images, project details and a full result description.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the goal, structure and visual direction."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        }
+      ]
     }
   ],
   "packages": [
     {
       "tag": "Start",
-      "title": "Quick start",
+      "title": "Design start",
       "price": "from $500",
-      "description": "For small tasks, hypothesis testing or the first launch.",
+      "description": "For a small task or the first launch of visual materials.",
       "features": [
         "Consultation",
+        "1 design area",
         "Basic structure",
-        "Key materials",
-        "Launch recommendations"
+        "Launch preparation"
       ],
       "button": "Choose package"
     },
     {
-      "tag": "Optimal",
-      "title": "Launch system",
+      "tag": "Popular",
+      "title": "Complex design",
       "price": "from $2,000",
-      "description": "A popular option for projects that need design, logic and request processing.",
+      "description": "A popular option for businesses that need consistent visual packaging.",
       "features": [
-        "Project structure",
-        "Design or setup",
-        "Integrations",
-        "Launch preparation"
+        "Several design areas",
+        "Style system",
+        "Layouts and media",
+        "File preparation"
       ],
       "button": "Choose package",
       "popular": true
     },
     {
-      "tag": "Complex",
-      "title": "Full cycle",
+      "tag": "System",
+      "title": "Design system for growth",
       "price": "from $5,000",
-      "description": "For tasks where product, analytics, ads and lead processing should work together.",
+      "description": "For projects where design should scale and work for a long time.",
       "features": [
-        "Strategy",
-        "Design and implementation",
-        "CRM/analytics",
-        "Launch support"
+        "Audit and structure",
+        "Components",
+        "Design rules",
+        "Implementation support"
       ],
       "button": "Choose package"
     }
   ],
   "feedback": {
     "title": "Still have questions?",
-    "text": "Describe your task — we will suggest where to start and what format fits best.",
+    "text": "Tell us what design you need — we will suggest the right format, workflow and starting point.",
     "button": "Ask a question"
   }
 }

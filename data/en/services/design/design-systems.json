@@ -1,15 +1,15 @@
 {
   "title": "Design systems",
   "category": "Design",
-  "description": "Components, rules and structure for scalable interfaces.",
+  "description": "We build components, UI kits and interface rules so the product can be developed consistently.",
   "content": [
     {
       "heading": "What we do",
-      "text": "Components, rules and structure for scalable interfaces."
+      "text": "We build components, UI kits and interface rules so the product can be developed consistently."
     },
     {
-      "heading": "When it fits",
-      "text": "We will clarify the task and suggest the right format."
+      "heading": "What is included",
+      "text": "UI kit, Components, Figma libraries"
     }
   ]
 }
