@@ -1,0 +1,15 @@
+{
+  "title": "Frontend development",
+  "category": "Development",
+  "description": "We build interfaces, responsive layouts, animations and interactive blocks for websites and services.",
+  "content": [
+    {
+      "heading": "What we do",
+      "text": "We build interfaces, responsive layouts, animations and interactive blocks for websites and services."
+    },
+    {
+      "heading": "What is included",
+      "text": "Interfaces, Responsive layout, Animations, Interactive blocks"
+    }
+  ]
+}

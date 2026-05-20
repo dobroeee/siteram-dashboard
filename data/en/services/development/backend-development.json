@@ -1,0 +1,15 @@
+{
+  "title": "Backend development",
+  "category": "Development",
+  "description": "We design server logic, databases, APIs, authentication and personal accounts.",
+  "content": [
+    {
+      "heading": "What we do",
+      "text": "We design server logic, databases, APIs, authentication and personal accounts."
+    },
+    {
+      "heading": "What is included",
+      "text": "Server logic, Databases, API, Authentication, Personal accounts"
+    }
+  ]
+}

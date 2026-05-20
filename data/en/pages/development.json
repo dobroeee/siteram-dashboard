@@ -1,186 +1,405 @@
 {
   "title": "Development",
-  "description": "Websites, web services, calculators, CRM, dashboards and custom tools.",
-  "groups": [
+  "description": "We develop websites, interfaces, server logic, dashboards, integrations and automation for business tasks.",
+  "developmentSections": [
     {
-      "title": "Websites and interfaces",
-      "description": "Public and internal digital products.",
-      "items": [
+      "id": "web-development",
+      "title": "Web development",
+      "description": "We develop websites, landing pages, online stores, quizzes and calculators for specific business tasks.",
+      "tags": [
+        "Websites",
+        "Landing pages",
+        "Online stores",
+        "Quizzes",
+        "Calculators"
+      ],
+      "cases": [
         {
-          "id": "websites",
-          "title": "Websites",
-          "description": "Landing pages and multi-page websites."
+          "id": "web-development-case-1",
+          "tag": "Web",
+          "image": "",
+          "title": "Web development case 1",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "web-apps",
-          "title": "Web applications",
-          "description": "Interactive interfaces and personal accounts."
+          "id": "web-development-case-2",
+          "tag": "Web",
+          "image": "",
+          "title": "Web development case 2",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "mobile-apps",
-          "title": "Mobile applications",
-          "description": "Mobile solutions for user scenarios."
+          "id": "web-development-case-3",
+          "tag": "Web",
+          "image": "",
+          "title": "Web development case 3",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "ecommerce",
-          "title": "Online stores",
-          "description": "Catalogs, carts and forms."
+          "id": "web-development-case-4",
+          "tag": "Web",
+          "image": "",
+          "title": "Web development case 4",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Interactive tools and leads",
-      "description": "Tools for requests, calculations and segmentation.",
-      "items": [
+      "id": "frontend-development",
+      "title": "Frontend development",
+      "description": "We build interfaces, responsive layouts, animations and interactive blocks for websites and services.",
+      "tags": [
+        "Interfaces",
+        "Responsive layout",
+        "Animations",
+        "Interactive blocks"
+      ],
+      "cases": [
         {
-          "id": "calculators",
-          "title": "Calculators",
-          "description": "Cost, income or parameter calculations."
+          "id": "frontend-development-case-1",
+          "tag": "Frontend",
+          "image": "",
+          "title": "Frontend development case 1",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "quizzes-forms",
-          "title": "Quizzes and forms",
-          "description": "Interactive forms for requests."
+          "id": "frontend-development-case-2",
+          "tag": "Frontend",
+          "image": "",
+          "title": "Frontend development case 2",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "admin-panels",
-          "title": "Admin panels",
-          "description": "Managing content, requests and data."
+          "id": "frontend-development-case-3",
+          "tag": "Frontend",
+          "image": "",
+          "title": "Frontend development case 3",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "frontend-development-case-4",
+          "tag": "Frontend",
+          "image": "",
+          "title": "Frontend development case 4",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Systems and integrations",
-      "description": "Logic, data and automation.",
-      "items": [
+      "id": "backend-development",
+      "title": "Backend development",
+      "description": "We design server logic, databases, APIs, authentication and personal accounts.",
+      "tags": [
+        "Server logic",
+        "Databases",
+        "API",
+        "Authentication",
+        "Personal accounts"
+      ],
+      "cases": [
         {
-          "id": "crm-systems",
-          "title": "CRM systems",
-          "description": "Processing requests and clients."
+          "id": "backend-development-case-1",
+          "tag": "Backend",
+          "image": "",
+          "title": "Backend development case 1",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "dashboards",
-          "title": "Dashboards",
-          "description": "Data, tables, charts and filters."
+          "id": "backend-development-case-2",
+          "tag": "Backend",
+          "image": "",
+          "title": "Backend development case 2",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "parsers",
-          "title": "Parsing systems",
-          "description": "Collecting and structuring data."
+          "id": "backend-development-case-3",
+          "tag": "Backend",
+          "image": "",
+          "title": "Backend development case 3",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "api-integrations",
-          "title": "API integrations",
-          "description": "Connecting services and systems."
+          "id": "backend-development-case-4",
+          "tag": "Backend",
+          "image": "",
+          "title": "Backend development case 4",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dashboards-analytics",
+      "title": "Dashboards and analytics",
+      "description": "We develop control panels, reports, charts and data visualization.",
+      "tags": [
+        "Control panels",
+        "Reports",
+        "Charts",
+        "Data visualization"
+      ],
+      "cases": [
+        {
+          "id": "dashboards-analytics-case-1",
+          "tag": "Dashboard",
+          "image": "",
+          "title": "Dashboards and analytics case 1",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "automation",
-          "title": "Process automation",
-          "description": "Removing manual actions."
+          "id": "dashboards-analytics-case-2",
+          "tag": "Dashboard",
+          "image": "",
+          "title": "Dashboards and analytics case 2",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         },
         {
-          "id": "data-storage",
-          "title": "Data storage",
-          "description": "Data structure and workflows."
+          "id": "dashboards-analytics-case-3",
+          "tag": "Dashboard",
+          "image": "",
+          "title": "Dashboards and analytics case 3",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
+        },
+        {
+          "id": "dashboards-analytics-case-4",
+          "tag": "Dashboard",
+          "image": "",
+          "title": "Dashboards and analytics case 4",
+          "description": "Temporary case description. Later we will add real screenshots and project details.",
+          "content": [
+            {
+              "heading": "Task",
+              "text": "We clarified the scope and built the core structure."
+            },
+            {
+              "heading": "Result",
+              "text": "The case page will be filled with real project details later."
+            }
+          ]
         }
       ]
     }
   ],
-  "cases": [
+  "simpleSections": [
     {
-      "tag": "Website",
-      "image": "",
-      "title": "Multi-page website",
-      "description": "Structure, responsive layout and service pages.",
-      "button": "View",
-      "url": "#"
+      "id": "app-development",
+      "title": "Application development",
+      "tags": [
+        "Web applications",
+        "Mobile applications",
+        "MVP",
+        "SaaS services"
+      ]
     },
     {
-      "tag": "Calculator",
-      "image": "",
-      "title": "Cost calculator",
-      "description": "Cost calculation with request submission.",
-      "button": "View",
-      "url": "#"
+      "id": "integrations-automation",
+      "title": "Integrations and automation",
+      "tags": [
+        "CRM",
+        "Payments",
+        "Forms",
+        "Telegram bots",
+        "API",
+        "Broadcasts"
+      ]
     },
     {
-      "tag": "Quiz",
-      "image": "",
-      "title": "Segmentation quiz",
-      "description": "Question logic, answers and lead submission.",
-      "button": "View",
-      "url": "#"
-    },
-    {
-      "tag": "Dashboard",
-      "image": "",
-      "title": "Internal dashboard",
-      "description": "Interface for cards, filters and data.",
-      "button": "View",
-      "url": "#"
-    },
-    {
-      "tag": "CRM",
-      "image": "",
-      "title": "CRM request logic",
-      "description": "Stages, statuses and data transfer for managers.",
-      "button": "View",
-      "url": "#"
-    },
-    {
-      "tag": "API",
-      "image": "",
-      "title": "Service integration",
-      "description": "Connected forms, tables and notifications.",
-      "button": "View",
-      "url": "#"
-    },
-    {
-      "tag": "Parser",
-      "image": "",
-      "title": "Data collection system",
-      "description": "Logic for collecting and structuring information.",
-      "button": "View",
-      "url": "#"
+      "id": "support-maintenance",
+      "title": "Support and maintenance",
+      "tags": [
+        "Fixes",
+        "Optimization",
+        "Project development",
+        "Technical support"
+      ]
     }
   ],
   "packages": [
     {
       "tag": "Start",
-      "title": "Quick start",
-      "price": "from $500",
-      "description": "For small tasks, hypothesis testing or the first launch.",
+      "title": "Development start",
+      "price": "from $800",
+      "description": "For a small task, separate block or first launch.",
       "features": [
         "Consultation",
         "Basic structure",
-        "Key materials",
-        "Launch recommendations"
+        "Key functionality",
+        "Launch preparation"
       ],
       "button": "Choose package"
     },
     {
-      "tag": "Optimal",
-      "title": "Launch system",
-      "price": "from $2,000",
-      "description": "A popular option for projects that need design, logic and request processing.",
+      "tag": "Popular",
+      "title": "Working system",
+      "price": "from $2,500",
+      "description": "A popular option for projects that need logic, interface and request submission.",
       "features": [
         "Project structure",
-        "Design or setup",
-        "Integrations",
-        "Launch preparation"
+        "Frontend/Backend",
+        "Forms and integrations",
+        "Testing"
       ],
       "button": "Choose package",
       "popular": true
     },
     {
       "tag": "Complex",
-      "title": "Full cycle",
-      "price": "from $5,000",
-      "description": "For tasks where product, analytics, ads and lead processing should work together.",
+      "title": "Turnkey development",
+      "price": "from $6,000",
+      "description": "For complex projects with multiple scenarios, integrations and analytics.",
       "features": [
-        "Strategy",
-        "Design and implementation",
-        "CRM/analytics",
+        "Architecture",
+        "Interface and logic",
+        "API/CRM/data",
         "Launch support"
       ],
       "button": "Choose package"
@@ -188,7 +407,7 @@
   ],
   "feedback": {
     "title": "Still have questions?",
-    "text": "Describe your task — we will suggest where to start and what format fits best.",
+    "text": "Describe your task — we will suggest the right development format and workflow.",
     "button": "Ask a question"
   }
 }
